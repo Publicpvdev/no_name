@@ -1,0 +1,18 @@
+body:hover {
+  background-color: #b68585;
+}
+
+body {
+  background-color: #5c3f3f;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  transition: .2s;
+  font-size: 110px;
+}
+
+h1:hover {
+  color: white;
+}
